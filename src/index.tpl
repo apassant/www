@@ -150,7 +150,7 @@
                 </div>
                 <footer>
                     <p id="copyright">
-                        &copy; 2013 Alexandre Passant | Design: <a href="http://html5up.net/" target="_blank">HTML5 UP</a> | Photo: <a href="http://www.flickr.com/photos/thomasbonte" target="_blank">Thomas Bonte</a> | <a href="http://github.com/terraces/www" target="_blank">Source code</a>
+                        &copy; 2013 Alexandre Passant | Design by <a href="http://html5up.net/" target="_blank">HTML5 UP</a> | Photo by <a href="http://www.flickr.com/photos/thomasbonte" target="_blank">Thomas Bonte</a> | Source code on <a href="http://github.com/terraces/www" target="_blank">github</a>
                     </p>
                 </footer>
             </article>
