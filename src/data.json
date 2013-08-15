@@ -1,0 +1,83 @@
+{
+    "name" : "Alexandre Passant",
+    "shortbio" : "<p>I'm a <strong>Hacker</strong>, an <strong>Entrepreneur</strong> and a <strong>Researcher</strong>. I love to <strong>Build</strong>, <strong>Learn</strong> and <strong>Share</strong>. I care about the <strong>Web</strong>. I'm trying to make it a better place, and I'm having fun doing it.</p>",
+    "work" : [{
+        "url" : "http://seevl.fm",
+        "name" : "seevl",
+        "depiction" : "seevl.png",
+        "role": "Product and R&amp;D lead",
+        "description" : "A data-driven music-discovery platform, the best way to discover music that matters to you."
+    }, {
+        "url" : "http://mdg.io",
+        "name" : "MDG Web",
+        "depiction" : "mdg.png",
+        "role": "Co-founder",
+        "description" : "seevl's parent company, building new ways to imagine music discovery and consumption."
+    }, {
+        "url" : "http://mesagraph.com",
+        "name" : "mesagraph",
+        "depiction" : "mesagraph.png",
+        "role": "Scientific Advisor",
+        "description" : "Unlocking social media to help organizations and individuals make faster, better decisions."
+    }, {
+        "url" : "http://musicontology.com",
+        "name" : "Music Ontology",
+        "depiction" : "mo.png",
+        "role": "Contributor",
+        "description" : "The reference ontology to describe music and music meta-data on the Semantic Web."
+    }, {
+        "url" : "http://sioc-project.org",
+        "name" : "SIOC",
+        "depiction" : "sioc.png",
+        "role": "Core contributor",
+        "description" : "The reference ontology to represent communities and their activities on the Semantic Web."
+    }, {
+        "url" : "http://w3c.org",
+        "name" : "W3C",
+        "depiction" : "w3c.png",
+        "role" : "XG, IG and WG Contributor",
+        "description" : "Developping open standards to ensure the long-term growth of the Web."
+    }],
+    "sharing" : [{
+        "name" : "Blogs",
+        "depiction" : "blog.png",
+        "description" : "Tech posts on my <a href='http://blog.apassant.net' target='_blank'>personal</a> and <a href='http://blog.apassant.net' target='_blank'>company</a> blog."
+    }, {
+        "url" : "http://www.deri.ie/users/alexandre-passant",
+        "name" : "Publications",
+        "depiction" : "deri.png",
+        "description" : "About 100 academic and standardisation documents."
+    }, {
+        "url" : "http://www.slideshare.net/terraces",
+        "name" : "Talks",
+        "depiction" : "slideshare.png",
+        "description" : "Slides of my recent talks, generally in-depth tech talks."
+    }, {
+        "url" : "http://www.slideshare.net/terraces",
+        "name" : "Q&amp;A",
+        "depiction" : "quora.png",
+        "description" : "My contributions to Quora - tech, music and tattoos."
+    }],
+    "social" : [{
+        "name" : "rss",
+        "url" : "http://blog.apassant.net"
+    }, {
+        "name" : "instagram",
+        "url" : "http://instagram.com/terraces"
+    }, {
+        "name" : "twitter",
+        "url" : "http://twitter.com/terraces"
+    }, {
+        "name" : "linkedin",
+        "url" : "http://linkedin.com/in/apassant"
+    }, {
+        "name" : "googleplus",
+        "url" : "http://plus.google.com/110105514699988805799"
+    }, {
+        "name" : "github",
+        "url" : "http://github.com/terraces"
+    }]
+}
+
+
+
